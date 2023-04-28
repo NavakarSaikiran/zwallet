@@ -28,7 +28,7 @@ const SuccessPinPage = () => {
         <h5>Your PIN Was Successfully Created</h5>
         <h6>
           Your PIN was successfully created and you can now access <br />
-          all the features in Zwallet. Login to your new account and <br />
+          all the features in SKYwallet. Login to your new account and <br />
           start exploring!
         </h6>
         <Button children="Login" className="button-login" />

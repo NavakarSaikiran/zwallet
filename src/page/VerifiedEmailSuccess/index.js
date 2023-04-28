@@ -26,7 +26,7 @@ const VerifiedEmailSuccess = () => {
         </div>
 
         <div class="text">
-          Now you can enjoy all the features of Zwallet.
+          Now you can enjoy all the features of SKYwallet.
           <br />
           Click the button below to start the adventure
         </div>

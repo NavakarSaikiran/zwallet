@@ -64,7 +64,7 @@ const TopupPage = () => {
           <Cardwrapper className="item">
             <p className="number">8</p>
             <p className="text-regular">
-              You can see your money in Zwallet within 3 hours.
+              You can see your money in SKYwallet within 3 hours.
             </p>
           </Cardwrapper>
         </div>

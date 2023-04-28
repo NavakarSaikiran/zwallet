@@ -54,7 +54,7 @@ const SignupPage = () => {
           </h5>
           <h6>
             Transfering money is eassier than ever, you can access <br />
-            Zwallet wherever you are. Desktop, laptop, mobile phone?
+            SKYwallet wherever you are. Desktop, laptop, mobile phone?
             <br />
             we cover all of that for you!
           </h6>

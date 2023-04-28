@@ -16,7 +16,7 @@ const NewPinPage = () => {
         <div className="text-wrapper">
           <HeadingContent>Change Pin</HeadingContent>
           <p className="text-regular">
-            Type your new 6 digits security PIN to use in <br /> Zwallet..
+            Type your new 6 digits security PIN to use in <br /> SKYwallet..
           </p>
         </div>
         <div className="form-wrapper">

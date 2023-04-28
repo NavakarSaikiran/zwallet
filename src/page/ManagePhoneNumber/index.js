@@ -18,7 +18,7 @@ const ManagePhoneNumber = () => {
           <SmallCard className="card-section contact">
             <div className="title-wrapper">
               <p className="title">Primary</p>
-              <p className="sub-title">+62 813 9387 7946</p>
+              <p className="sub-title">XXXXXXXXXXX</p>
             </div>
             <div className="button-right">
               <button className="btn">

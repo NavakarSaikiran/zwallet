@@ -57,7 +57,7 @@ const ForgotPasswordPage = () => {
             Password In a Minutes. <br />
           </h5>
           <h6>
-            Now you can create a new password for your Zwallet <br />
+            Now you can create a new password for your SKYwallet <br />
             account. Type your password twice so we can confirm your <br />
             new passsword.
           </h6>

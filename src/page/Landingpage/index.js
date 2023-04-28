@@ -33,7 +33,7 @@ const Landingpage = () => {
       <div className="heading-section">
         <nav>
           <div className="custom-container">
-            <h1 className="logo">Zwallet</h1>
+            <h1 className="logo">SKYwallet</h1>
             <div className="btn-wrapper">
               <button className="button default" onClick={actionLogin}>
                 Login
@@ -98,7 +98,7 @@ const Landingpage = () => {
               </div>
               <h2>Easy Download</h2>
               <p className="paragraph">
-                Zwallet is 100% totally free to use it’s now available on Google
+                SKYwallet is 100% totally free to use it’s now available on Google
                 Play Store and App Store.
               </p>
             </div>
@@ -153,7 +153,7 @@ const Landingpage = () => {
           <div className="right">
             <h1 className="title-section center">
               All The <span className="heading primary">Great </span>
-              Zwallet Features.
+              SKYwallet Features.
             </h1>
             <div className="card feature-item">
               <div className="title">
@@ -161,7 +161,7 @@ const Landingpage = () => {
                 <h3>Small Fee</h3>
               </div>
               <p className="paragraph">
-                We only charge 5% of every success transaction done in Zwallet
+                We only charge 5% of every success transaction done in SKYwallet
                 app.
               </p>
             </div>
@@ -181,7 +181,7 @@ const Landingpage = () => {
                 <h3>User Friendly</h3>
               </div>
               <p className="paragraph">
-                Zwallet come up with modern and sleek design and not
+                SKYwallet come up with modern and sleek design and not
                 complicated.
               </p>
             </div>
@@ -225,7 +225,7 @@ const Landingpage = () => {
               <h2>Robert Chandler</h2>
               <p className="paragrah">
                 “Since I’m using this app, I’m not going to move to another
-                similar app. Thank you Zwallet!”
+                similar app. Thank you SKYwallet!”
               </p>
             </div>
           </div>
@@ -233,7 +233,7 @@ const Landingpage = () => {
       </section>
       <footer>
         <div className="custom-container">
-          <h1 className="logo">Zwallet</h1>
+          <h1 className="logo">SKYwallet</h1>
           <p className="text">
             Simplify financial needs and saving much time in banking needs with
             one single app.
@@ -241,11 +241,11 @@ const Landingpage = () => {
           <div className="divider"></div>
           <div className="contact">
             <div>
-              <p className="text">2020 Zwallet. All right reserved.</p>
+              <p className="text"> SKYwallet. All right reserved.</p>
             </div>
             <div className="contact-email">
-              <p className="text">+62 5637 8882 9901</p>
-              <p className="text">contact@zwallet.com</p>
+              <p className="text">XXXXXXXXXXX</p>
+              <p className="text">contact@skywallet.com</p>
             </div>
           </div>
         </div>

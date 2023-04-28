@@ -11,8 +11,8 @@ const Footer = () => {
           <p className="text-light">2020 Zwallet. All right reserved.</p>
         </div>
         <div className="right">
-          <p className="text-regular">+62 5637 8882 9901</p>
-          <p className="text-regular">contact@zwallet.com</p>
+          <p className="text-regular">XXXXXXXXXXX</p>
+          <p className="text-regular">contact@skywallet.com</p>
         </div>
       </div>
     </StyledFooter>

@@ -16,12 +16,12 @@ const SidebarAuth = ({ className }) => {
         <div className="paragraph">
           <h2 className="title-paragraph">App that Covering Banking Needs.</h2>
           <div className="text">
-            Zwallet is an application that focussing in banking needs for all
+            SKYwallet is an application that focussing in banking needs for all
             users
             <br />
             in the world. Always updated and always following world trends.
             <br />
-            5000+ users registered in Zwallet everyday with worldwide
+            5000+ users registered in SKYwallet everyday with worldwide
             <br />
             users coverage.
           </div>
