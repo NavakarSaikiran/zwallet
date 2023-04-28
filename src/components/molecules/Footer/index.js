@@ -8,7 +8,7 @@ const Footer = () => {
     <StyledFooter>
       <div className="custom-container">
         <div className="left">
-          <p className="text-light">2020 Zwallet. All right reserved.</p>
+          <p className="text-light">2020 SKYwallet. All right reserved.</p>
         </div>
         <div className="right">
           <p className="text-regular">XXXXXXXXXXX</p>
